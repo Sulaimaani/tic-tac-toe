@@ -4,14 +4,14 @@ This is a simple implementation of the classic Tic Tac Toe game using HTML, CSS,
 
 ## Table of Contents
 
-- [Demo](#demo)
+- [Demo](https://tic-tac-toe.sulaimaani.com/)
 - [How to Play](#how-to-play)
 - [Code Structure](#code-structure)
 - [License](#license)
 
 ## Demo
 
-[Live Demo](#) <!-- Add the link to your live demo if available -->
+[Live Demo](https://tic-tac-toe.sulaimaani.com/) <!-- Add the link to your live demo if available -->
 
 ## How to Play
 
